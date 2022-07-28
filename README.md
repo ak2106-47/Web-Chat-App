@@ -1,4 +1,4 @@
-﻿# Chating-web-applicatin-using-React-Node-socket-io-Express
+﻿# A Chatting Web Application developed using React.js, Node.js and SocketsIO
  
  Hosted here - https://62e070206310c903f06fae16--web-chat-app-online.netlify.app/
  
