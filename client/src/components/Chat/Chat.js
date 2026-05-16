@@ -21,7 +21,7 @@ const Chat=({location})=>{
     const [messages, setMessages]=useState([]);
    
     //const ENDPOINT='http://localhost:5000';
-    const ENDPOINT='https://chat-app-react-express-node.herokuapp.com/';
+    const ENDPOINT='https://web-chat-app-vrp5.onrender.com';
     //var socket = io('https://localhost:5000', { transport : ['websocket'] });
   
 
